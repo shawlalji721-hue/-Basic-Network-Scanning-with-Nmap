@@ -84,8 +84,6 @@ Windows uses these high ports for internal RPC communication.
 
 - `nmap_scan_result.txt` → Raw Nmap scan output
 - `README.md` → Scan explanation and analysis
-- `screenshots/` → Screenshots of scan results
-
 ---
 
 ## Tools Used
